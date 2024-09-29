@@ -9,7 +9,7 @@
 
 На основе результатов распознания создается простое облако тегов.
 
-<img src="img/tags.png" width="600px" alt="" />
+<img src="images/tags.png" width="600px" alt="" />
 
 <br><br>
 
